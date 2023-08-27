@@ -1,4 +1,4 @@
-package Seminar1;
+package seminar1;
 
 // Подкласс, наследующий от Animal
 class Bird extends Animal {

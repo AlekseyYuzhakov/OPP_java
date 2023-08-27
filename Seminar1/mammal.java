@@ -1,4 +1,4 @@
-package Seminar1;
+package seminar1;
 
 class Mammal extends Animal {
   String furColor;
