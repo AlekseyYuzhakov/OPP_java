@@ -1,0 +1,10 @@
+package seminar4.task5;
+
+public class Gen<T> {
+  T ob;
+
+  Gen(T ob) {
+    this.ob = ob;
+  }
+
+}
