@@ -12,11 +12,11 @@ public class UnboundedWildcardExample {
   }
 
   public static void main(String[] args) {
-    List<Integer> intList = new ArrayList<>();
+    List<Integer> intList = new ArrayList<Integer>();
     intList.add(5);
     intList.add(10);
 
-    List<String> stringList = new ArrayList<>();
+    List<String> stringList = new ArrayList<String>();
     stringList.add("Привет");
     stringList.add("Мир");
 
