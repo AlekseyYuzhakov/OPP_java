@@ -1,0 +1,7 @@
+Calculation result :  [-1.91  1.17i] -  [-6.95  2.06i] =  [5.04  -0.89i]
+Calculation result :  [9.13  -1.41i] *  [-2.09  -2.01i] =  [-21.91  21.29i]
+Calculation result :  [-3.62  1.28i] +  [-1.7  1.47i] =  [-5.32  2.75i]
+Calculation result :  [-1.16  1.13i] *  [2.1  -1.26i] =  [-1.01  0.91i]
+Calculation result :  [-4.44  2.13i] +  [7.24  8.8i] =  [2.8  10.93i]
+Calculation result :  [-1.02  1.06i] +  [-5.8  1.96i] =  [-6.82  3.02i]
+Calculation result :  [-2.01  1.0i] *  [1.16  -4.81i] =  [2.47  -8.5i]
